@@ -204,5 +204,5 @@ document.addEventListener("keydown", (event) => {
     shootBullet();
   }
 });
-//johanes erwan saputra
+
 setInterval(updateCanvas, 30);
